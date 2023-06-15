@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="aisd2023"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aisd2023">
+				<Option output="C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug/aisd2023.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug/Makefile&quot;  VERBOSE=1 aisd2023"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aisd2023/fast">
+				<Option output="C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug/aisd2023.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug/Makefile&quot;  VERBOSE=1 aisd2023/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/deque/array/deque.c">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/deque/array/deque.h">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/deque/circular_list/deque.c">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/deque/circular_list/deque.h">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/deque/list/deque.c">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/deque/list/deque.h">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/main.c">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/queue/circular_list/queue.c">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/queue/circular_list/queue.h">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/queue/list/queue.c">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/queue/list/queue.h">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/queue/vector/queue.c">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/queue/vector/queue.h">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/stack/array/stack.c">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/stack/array/stack.h">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/stack/list/stack.c">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/stack/list/stack.h">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/table/array/table.c">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/table/array/table.h">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/table/hash/hash.c">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/table/hash/hash.h">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/table/hash_chaining/hash_table.c">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/table/hash_chaining/hash_table.h">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/table/hash_probing/hash_table.c">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/table/hash_probing/hash_table.h">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/table/list/table.c">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/table/list/table.h">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/table/ordered/table.c">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/table/ordered/table.h">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/task/tsk1.c">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/task/tsk1.h">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/tree/BST/binaryTree.c">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/tree/BST/binaryTree.h">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/tree/BST_par/binaryTree.c">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/tree/BST_par/binaryTree.h">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
