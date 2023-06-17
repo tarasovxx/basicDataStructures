@@ -94,6 +94,12 @@
 		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/deque/list/deque.h">
 			<Option target="aisd2023"/>
 		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/graph/graph/graph.c">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/graph/graph/graph.h">
+			<Option target="aisd2023"/>
+		</Unit>
 		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/main.c">
 			<Option target="aisd2023"/>
 		</Unit>
@@ -179,6 +185,12 @@
 			<Option target="aisd2023"/>
 		</Unit>
 		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/tree/BST_par/binaryTree.h">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/tree/balanceTree/AVL_tree.c">
+			<Option target="aisd2023"/>
+		</Unit>
+		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/tree/balanceTree/AVL_tree.h">
 			<Option target="aisd2023"/>
 		</Unit>
 		<Unit filename="C:/labs_in_c/2semestr/exam/aisd2023/CMakeLists.txt">

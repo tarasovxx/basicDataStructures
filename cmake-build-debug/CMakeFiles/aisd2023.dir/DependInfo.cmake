@@ -11,6 +11,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "C:/labs_in_c/2semestr/exam/aisd2023/deque/array/deque.c" "C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug/CMakeFiles/aisd2023.dir/deque/array/deque.c.obj"
   "C:/labs_in_c/2semestr/exam/aisd2023/deque/circular_list/deque.c" "C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug/CMakeFiles/aisd2023.dir/deque/circular_list/deque.c.obj"
   "C:/labs_in_c/2semestr/exam/aisd2023/deque/list/deque.c" "C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug/CMakeFiles/aisd2023.dir/deque/list/deque.c.obj"
+  "C:/labs_in_c/2semestr/exam/aisd2023/graph/graph/graph.c" "C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug/CMakeFiles/aisd2023.dir/graph/graph/graph.c.obj"
   "C:/labs_in_c/2semestr/exam/aisd2023/main.c" "C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug/CMakeFiles/aisd2023.dir/main.c.obj"
   "C:/labs_in_c/2semestr/exam/aisd2023/queue/circular_list/queue.c" "C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug/CMakeFiles/aisd2023.dir/queue/circular_list/queue.c.obj"
   "C:/labs_in_c/2semestr/exam/aisd2023/queue/list/queue.c" "C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug/CMakeFiles/aisd2023.dir/queue/list/queue.c.obj"
@@ -26,6 +27,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "C:/labs_in_c/2semestr/exam/aisd2023/task/tsk1.c" "C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug/CMakeFiles/aisd2023.dir/task/tsk1.c.obj"
   "C:/labs_in_c/2semestr/exam/aisd2023/tree/BST/binaryTree.c" "C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug/CMakeFiles/aisd2023.dir/tree/BST/binaryTree.c.obj"
   "C:/labs_in_c/2semestr/exam/aisd2023/tree/BST_par/binaryTree.c" "C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug/CMakeFiles/aisd2023.dir/tree/BST_par/binaryTree.c.obj"
+  "C:/labs_in_c/2semestr/exam/aisd2023/tree/balanceTree/AVL_tree.c" "C:/labs_in_c/2semestr/exam/aisd2023/cmake-build-debug/CMakeFiles/aisd2023.dir/tree/balanceTree/AVL_tree.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

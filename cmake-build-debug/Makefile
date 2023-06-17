@@ -200,6 +200,30 @@ deque/list/deque.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\aisd2023.dir\build.make CMakeFiles/aisd2023.dir/deque/list/deque.c.s
 .PHONY : deque/list/deque.c.s
 
+graph/graph/graph.obj: graph/graph/graph.c.obj
+.PHONY : graph/graph/graph.obj
+
+# target to build an object file
+graph/graph/graph.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aisd2023.dir\build.make CMakeFiles/aisd2023.dir/graph/graph/graph.c.obj
+.PHONY : graph/graph/graph.c.obj
+
+graph/graph/graph.i: graph/graph/graph.c.i
+.PHONY : graph/graph/graph.i
+
+# target to preprocess a source file
+graph/graph/graph.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aisd2023.dir\build.make CMakeFiles/aisd2023.dir/graph/graph/graph.c.i
+.PHONY : graph/graph/graph.c.i
+
+graph/graph/graph.s: graph/graph/graph.c.s
+.PHONY : graph/graph/graph.s
+
+# target to generate assembly for a file
+graph/graph/graph.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aisd2023.dir\build.make CMakeFiles/aisd2023.dir/graph/graph/graph.c.s
+.PHONY : graph/graph/graph.c.s
+
 main.obj: main.c.obj
 .PHONY : main.obj
 
@@ -560,6 +584,30 @@ tree/BST_par/binaryTree.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\aisd2023.dir\build.make CMakeFiles/aisd2023.dir/tree/BST_par/binaryTree.c.s
 .PHONY : tree/BST_par/binaryTree.c.s
 
+tree/balanceTree/AVL_tree.obj: tree/balanceTree/AVL_tree.c.obj
+.PHONY : tree/balanceTree/AVL_tree.obj
+
+# target to build an object file
+tree/balanceTree/AVL_tree.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aisd2023.dir\build.make CMakeFiles/aisd2023.dir/tree/balanceTree/AVL_tree.c.obj
+.PHONY : tree/balanceTree/AVL_tree.c.obj
+
+tree/balanceTree/AVL_tree.i: tree/balanceTree/AVL_tree.c.i
+.PHONY : tree/balanceTree/AVL_tree.i
+
+# target to preprocess a source file
+tree/balanceTree/AVL_tree.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aisd2023.dir\build.make CMakeFiles/aisd2023.dir/tree/balanceTree/AVL_tree.c.i
+.PHONY : tree/balanceTree/AVL_tree.c.i
+
+tree/balanceTree/AVL_tree.s: tree/balanceTree/AVL_tree.c.s
+.PHONY : tree/balanceTree/AVL_tree.s
+
+# target to generate assembly for a file
+tree/balanceTree/AVL_tree.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\aisd2023.dir\build.make CMakeFiles/aisd2023.dir/tree/balanceTree/AVL_tree.c.s
+.PHONY : tree/balanceTree/AVL_tree.c.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -578,6 +626,9 @@ help:
 	@echo ... deque/list/deque.obj
 	@echo ... deque/list/deque.i
 	@echo ... deque/list/deque.s
+	@echo ... graph/graph/graph.obj
+	@echo ... graph/graph/graph.i
+	@echo ... graph/graph/graph.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
@@ -623,6 +674,9 @@ help:
 	@echo ... tree/BST_par/binaryTree.obj
 	@echo ... tree/BST_par/binaryTree.i
 	@echo ... tree/BST_par/binaryTree.s
+	@echo ... tree/balanceTree/AVL_tree.obj
+	@echo ... tree/balanceTree/AVL_tree.i
+	@echo ... tree/balanceTree/AVL_tree.s
 .PHONY : help
 
 

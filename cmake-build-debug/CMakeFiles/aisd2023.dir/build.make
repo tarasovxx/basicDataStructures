@@ -299,6 +299,32 @@ CMakeFiles/aisd2023.dir/tree/BST_par/binaryTree.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/aisd2023.dir/tree/BST_par/binaryTree.c.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\labs_in_c\2semestr\exam\aisd2023\tree\BST_par\binaryTree.c -o CMakeFiles\aisd2023.dir\tree\BST_par\binaryTree.c.s
 
+CMakeFiles/aisd2023.dir/graph/graph/graph.c.obj: CMakeFiles/aisd2023.dir/flags.make
+CMakeFiles/aisd2023.dir/graph/graph/graph.c.obj: ../graph/graph/graph.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\labs_in_c\2semestr\exam\aisd2023\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/aisd2023.dir/graph/graph/graph.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\aisd2023.dir\graph\graph\graph.c.obj -c C:\labs_in_c\2semestr\exam\aisd2023\graph\graph\graph.c
+
+CMakeFiles/aisd2023.dir/graph/graph/graph.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/aisd2023.dir/graph/graph/graph.c.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\labs_in_c\2semestr\exam\aisd2023\graph\graph\graph.c > CMakeFiles\aisd2023.dir\graph\graph\graph.c.i
+
+CMakeFiles/aisd2023.dir/graph/graph/graph.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/aisd2023.dir/graph/graph/graph.c.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\labs_in_c\2semestr\exam\aisd2023\graph\graph\graph.c -o CMakeFiles\aisd2023.dir\graph\graph\graph.c.s
+
+CMakeFiles/aisd2023.dir/tree/balanceTree/AVL_tree.c.obj: CMakeFiles/aisd2023.dir/flags.make
+CMakeFiles/aisd2023.dir/tree/balanceTree/AVL_tree.c.obj: ../tree/balanceTree/AVL_tree.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\labs_in_c\2semestr\exam\aisd2023\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/aisd2023.dir/tree/balanceTree/AVL_tree.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\aisd2023.dir\tree\balanceTree\AVL_tree.c.obj -c C:\labs_in_c\2semestr\exam\aisd2023\tree\balanceTree\AVL_tree.c
+
+CMakeFiles/aisd2023.dir/tree/balanceTree/AVL_tree.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/aisd2023.dir/tree/balanceTree/AVL_tree.c.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\labs_in_c\2semestr\exam\aisd2023\tree\balanceTree\AVL_tree.c > CMakeFiles\aisd2023.dir\tree\balanceTree\AVL_tree.c.i
+
+CMakeFiles/aisd2023.dir/tree/balanceTree/AVL_tree.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/aisd2023.dir/tree/balanceTree/AVL_tree.c.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\labs_in_c\2semestr\exam\aisd2023\tree\balanceTree\AVL_tree.c -o CMakeFiles\aisd2023.dir\tree\balanceTree\AVL_tree.c.s
+
 # Object files for target aisd2023
 aisd2023_OBJECTS = \
 "CMakeFiles/aisd2023.dir/main.c.obj" \
@@ -318,7 +344,9 @@ aisd2023_OBJECTS = \
 "CMakeFiles/aisd2023.dir/table/hash_chaining/hash_table.c.obj" \
 "CMakeFiles/aisd2023.dir/table/hash_probing/hash_table.c.obj" \
 "CMakeFiles/aisd2023.dir/tree/BST/binaryTree.c.obj" \
-"CMakeFiles/aisd2023.dir/tree/BST_par/binaryTree.c.obj"
+"CMakeFiles/aisd2023.dir/tree/BST_par/binaryTree.c.obj" \
+"CMakeFiles/aisd2023.dir/graph/graph/graph.c.obj" \
+"CMakeFiles/aisd2023.dir/tree/balanceTree/AVL_tree.c.obj"
 
 # External object files for target aisd2023
 aisd2023_EXTERNAL_OBJECTS =
@@ -341,11 +369,13 @@ aisd2023.exe: CMakeFiles/aisd2023.dir/table/hash_chaining/hash_table.c.obj
 aisd2023.exe: CMakeFiles/aisd2023.dir/table/hash_probing/hash_table.c.obj
 aisd2023.exe: CMakeFiles/aisd2023.dir/tree/BST/binaryTree.c.obj
 aisd2023.exe: CMakeFiles/aisd2023.dir/tree/BST_par/binaryTree.c.obj
+aisd2023.exe: CMakeFiles/aisd2023.dir/graph/graph/graph.c.obj
+aisd2023.exe: CMakeFiles/aisd2023.dir/tree/balanceTree/AVL_tree.c.obj
 aisd2023.exe: CMakeFiles/aisd2023.dir/build.make
 aisd2023.exe: CMakeFiles/aisd2023.dir/linklibs.rsp
 aisd2023.exe: CMakeFiles/aisd2023.dir/objects1.rsp
 aisd2023.exe: CMakeFiles/aisd2023.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\labs_in_c\2semestr\exam\aisd2023\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Linking C executable aisd2023.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\labs_in_c\2semestr\exam\aisd2023\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Linking C executable aisd2023.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\aisd2023.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
