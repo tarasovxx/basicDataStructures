@@ -13,7 +13,7 @@ int queue_push(Queue *q, int x) {
     return 0;
 }
 
-int queue_pop(Queue *q, int * x) {
+int queue_pop(Queue *q, int *x) {
     if (q->size == 0)
         return 0;
     *x = q->array[q->head];

@@ -9,7 +9,7 @@ Queue *queue_create() {
 }
 
 void queue_destroy(Queue *queue) {
-    if (queue->tail == NULL)     {
+    if (queue->tail == NULL) {
         free(queue);
         return;
     }
